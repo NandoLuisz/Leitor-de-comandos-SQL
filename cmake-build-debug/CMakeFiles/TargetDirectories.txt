@@ -1,0 +1,3 @@
+C:/Users/nando/CLionProjects/Trabalho_Estrutura_Dados/cmake-build-debug/CMakeFiles/Trabalho_Estrutura_Dados.dir
+C:/Users/nando/CLionProjects/Trabalho_Estrutura_Dados/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nando/CLionProjects/Trabalho_Estrutura_Dados/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,4 +1,5 @@
-# Install script for directory: C:/Users/nando/CLionProjects/Trabalho_Estrutura_Dado
+# Install script for directory: C:/Users/nando/CLionProjects/Trabalho_Estrutura_Dados
+
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
   set(CMAKE_INSTALL_PREFIX "C:/Program Files (x86)/Trabalho_Estrutura_Dados")
