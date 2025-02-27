@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🛠️ SQL Parser em C
 
 Este projeto é um parser de comandos SQL escrito em C, capaz de interpretar e processar comandos como `INSERT`, `SELECT`, `DELETE` e `UPDATE`.
@@ -43,3 +44,22 @@ gcc -o sql_parser main.c
 - Criar um banco de dados em memória para armazenar os dados temporariamente.<br>
 - Melhorar o tratamento de erros na análise de comandos.<br>
 - Implementar suporte para mais tabelas e operações complexas.<br>
+=======
+SQL Parser em C
+
+Este projeto é um parser de comandos SQL escrito em C, capaz de interpretar e processar comandos como INSERT, SELECT, DELETE e UPDATE.
+
+Funcionalidades
+
+Leitura de comandos SQL a partir de um arquivo ou entrada padrão.
+
+Identificação e extração de informações de INSERT INTO, SELECT, DELETE e UPDATE.
+
+Organização dos dados em estruturas apropriadas para armazenamento e manipulação.
+
+Tecnologias Utilizadas
+
+Linguagem C
+
+Estruturas de dados (listas, structs, etc.)
+>>>>>>> 87b853a30a28d0c796714d3b904e1f19099e0733
