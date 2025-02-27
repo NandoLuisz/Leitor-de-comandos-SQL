@@ -5,9 +5,6 @@ set(CMAKE_CXX_STANDARD 17)
 
 add_executable(Trabalho_Estrutura_Dados
         main.c
-        Testes.c
-        Comandos.h
-        Comandos.c
         Pessoa.c
         Pessoa.h
         Pet.c
